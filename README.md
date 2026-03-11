@@ -24,4 +24,19 @@ theme: fluid
 hexo clean
 hexo g
 hexo s
+
+# GitHub Pages 自動部署
+npm install hexo-deployer-git --save
+
+# 修改 _config.yml
+deploy:
+  type: git
+  repo: https://github.com/username/username.github.io.git
+  branch: main
+
+# 部署
+hexo clean
+hexo generate
+hexo deploy
+
 ```
