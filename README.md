@@ -2,15 +2,7 @@
 
 ## 安裝的流程 使用終端機
 
-hexo-blog-source
-
 ``` bash
-
-git remote remove origin
-git remote add origin git@github.com:iachievedream/hexo-blog-source.git
-
-# 驗證
-git remote -v
 
 # 安裝 Hexo CLI
 npm install -g hexo-cli
@@ -30,8 +22,7 @@ cp themes/fluid/_config.yml _config.fluid.yml
 theme: fluid
 
 # 確認主題是否成功
-hexo clean
-hexo g
+hexo clean && hexo g
 hexo s
 
 # GitHub Pages 自動部署
@@ -47,12 +38,11 @@ or
 
 deploy:
   type: git
-  repo: https://github.com/iachievedream/hexo-blog-source.git
+  repo: https://github.com/username/hexo-blog.git
   branch: gh-pages
 
 # 部署
-hexo clean
-hexo generate
+hexo clean && hexo g
 hexo deploy
 
 ```
