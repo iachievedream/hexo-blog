@@ -45,4 +45,21 @@ deploy:
 hexo clean && hexo g
 hexo deploy
 
+
+#建立三個頁面 
+hexo new page archives
+hexo new page categories
+hexo new page tags
+
+
+tags
+self
+分享
+傳訊
+接訊
+
+
+categories
+自我成長
+
 ```
