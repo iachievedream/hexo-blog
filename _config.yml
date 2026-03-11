@@ -102,5 +102,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/iachievedream/iachievedream.github.io.git
-  branch: master
+  repo: https://github.com/iachievedream/hexo-blog-source.git
+  branch: gh-pages

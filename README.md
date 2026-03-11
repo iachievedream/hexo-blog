@@ -2,7 +2,16 @@
 
 ## 安裝的流程 使用終端機
 
+hexo-blog-source
+
 ``` bash
+
+git remote remove origin
+git remote add origin git@github.com:iachievedream/hexo-blog-source.git
+
+# 驗證
+git remote -v
+
 # 安裝 Hexo CLI
 npm install -g hexo-cli
 
@@ -33,6 +42,13 @@ deploy:
   type: git
   repo: https://github.com/username/username.github.io.git
   branch: main
+
+or
+
+deploy:
+  type: git
+  repo: https://github.com/iachievedream/hexo-blog-source.git
+  branch: gh-pages
 
 # 部署
 hexo clean
