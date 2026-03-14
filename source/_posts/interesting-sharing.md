@@ -38,6 +38,7 @@ Why programmers work at night
 
 ### 身心靈
 - [保有空間(Holding Space)](https://soulevolve.ca/2016/10/20/%E4%BF%9D%E6%9C%89%E7%A9%BA%E9%96%93holding-space/)
+
 - [「為某人保留空間」是什麼意思以及如何做到？](https://www.bonobology.com/zh-TW/%E7%82%BA%E6%9F%90%E4%BA%BA%E4%BF%9D%E7%95%99%E7%A9%BA%E9%96%93/)
 
 ## 永恆少年 高敏感 亞斯特質
