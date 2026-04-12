@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://iachievedream.github.io/human-design/</loc>
+    
+    <lastmod>2026-04-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://iachievedream.github.io/about/index.html</loc>
     
     <lastmod>2026-04-12</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://iachievedream.github.io/human-design/</loc>
+    <loc>https://iachievedream.github.io/memoir-vocational-to-gsat-fear-and-reasons/</loc>
     
     <lastmod>2026-04-12</lastmod>
     
@@ -71,10 +80,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://iachievedream.github.io/tags/%E7%B6%93%E9%A9%97%E6%94%B6%E7%A9%AB/</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://iachievedream.github.io/categories/%E8%BA%AB%E5%BF%83%E9%9D%88%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://iachievedream.github.io/categories/%E8%87%AA%E5%82%B3/</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
