@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "1ee2ea14f195a040",
+    "type": "split",
+    "children": [
+      {
+        "id": "605a3c34aa842d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d93f4f03b26fad",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "deff53be824f02c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3174d7093b8fc79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30854e34152a216",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "955b7656696cd3f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "19eae225a365cec8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "69501fc79b4c4f20",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cef8c8ea56edada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d616ca3743d0837",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/如何應對「緊急但不重要」的事情？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "如何應對「緊急但不重要」的事情？ 的反向連結"
+            }
+          },
+          {
+            "id": "a84a51c5be164e0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/如何應對「緊急但不重要」的事情？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "如何應對「緊急但不重要」的事情？ 的對外連結"
+            }
+          },
+          {
+            "id": "70ad6569fa7ed0d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "8839a5d2f7f781c6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "07fda5b2739c4038",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/如何應對「緊急但不重要」的事情？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "如何應對「緊急但不重要」的事情？ 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "37d93f4f03b26fad",
+  "lastOpenFiles": [
+    "raw/AMD64 與 ARM64 的全面解析：新手必讀指南.md",
+    "raw/vibe coding 實驗：自幹一套 Obsidian 網頁版，讓手機也能免費同步+編輯筆記 - 那就改天吧.md",
+    "raw/一種譬喻：心理諮商與整理房間.md",
+    "未命名.canvas",
+    "raw/美大學教授出妙招揪AI作弊 學生「沒檢查釀禍」幾乎全落網.md",
+    "raw/人類圖通道怎麼看？帶你深入了解36條人類圖通道涵義！.md",
+    "raw/Post by @spencerku.me on Threads.md",
+    "raw/答讀者問：讀到博士是不是相對不好找工作？對，因為正確的邏輯是「讓工作找你」.md",
+    "raw/一胎天才 二胎 ADHD 自閉你可能生了兩個神童.md",
+    "raw/微軟豪砸75億美元收購GitHub，開發者卻掀起逃難潮.md",
+    "raw/男大生救活少女反遭求償16萬元，這起事件正在改變所有人的善良.md",
+    "raw/我心理諮商47次 經歷12個老師後的感想.md",
+    "raw/新北單人住宿簡易心得-E書房(2025最新價格) - s033507799的創作 - 巴哈姆特.md",
+    "raw/漫悠-台北車站個人包廂推薦(價格、網咖、E客棧、住宿、背包客、閱讀工作)2026-03更新 - s033507799的創作 - 巴哈姆特.md",
+    "raw/人生的7個「真相」：道理所有人都懂，真正做到卻非常困難  遠見雜誌.md",
+    "raw/鐘月岑.md",
+    "raw/麻醉護理師荒 非緊急手術一延再延.md",
+    "raw/批北宜高鐵是盲腸高鐵 張景森宣布退出民進黨.md",
+    "raw/懷抱善意但欠缺訓練的「心理治療」，反而對性侵受害者造成二次傷害 - TNL The News Lens 關鍵評論網.md",
+    "raw/被諮商百小時就能開課？理科太太賣「諮商筆記」合法嗎？──讓「律師兼諮商心理師」專家幫你分析｜法律白話文國際站｜換日線.md",
+    "raw/王者之聲，國王的口吃——《有一天會成真！》.md",
+    "raw/我的增進表達能力之路2.md",
+    "raw/理科太太的諮商筆記：從自我覺察到自我療癒.md",
+    "raw/理科太太賣「諮商筆記」：網紅變現也有極限，為何她總是被炎上？｜林紘宇／精選轉載｜獨立評論.md",
+    "raw/《其實你很好》｜情緒管理4步驟：一本自我療癒的心理諮商大全.md",
+    "raw/《童年的傷，情緒都知道》：陰鬱小孩的「高估信念」，為什麼讓你在成人世界徹底失速？ - TNL The News Lens 關鍵評論網.md",
+    "raw/「CollaPlay可能存在的遊樂園」是工作室、咖啡廳、酒吧，也是充滿無限可能的空間.md",
+    "raw/张齐娥",
+    "raw/未命名檔案夾",
+    "raw"
+  ]
+}
